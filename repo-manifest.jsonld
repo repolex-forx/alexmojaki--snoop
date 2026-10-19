@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/alexmojaki/snoop/commit/f2f345f3ccc67e170b5329d345acd82e146a62b1",
       "git:hexsha": "f2f345f3ccc67e170b5329d345acd82e146a62b1",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.6.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.6.1",
+      "repolex:parsedAt": "2026-10-19T12:24:38.807912+00:00"
     },
     {
       "@id": "https://repolex.ai/r/alexmojaki/snoop/commit/9195bf72bfc47ef20393bf3b1f014061b37f6a06",
