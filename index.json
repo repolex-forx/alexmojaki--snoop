@@ -1,0 +1,11 @@
+{
+  "org": "alexmojaki",
+  "repo": "snoop",
+  "versions": [
+    {
+      "commit": "f2f345f3ccc67e170b5329d345acd82e146a62b1",
+      "tag": "v0.6.1",
+      "parsed_at": "2026-10-19T12:24:38.820641+00:00"
+    }
+  ]
+}
